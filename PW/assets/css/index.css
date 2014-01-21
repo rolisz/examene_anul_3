@@ -1,0 +1,18 @@
+img {
+	max-width: 600px;
+}
+
+.selected {
+	border: 2px solid yellow;
+}
+
+.error {
+	border: 2px solid red;
+}
+
+.correct {
+	border: 2px solid green;
+}
+.navbar {
+	border-radius: 0;
+}
